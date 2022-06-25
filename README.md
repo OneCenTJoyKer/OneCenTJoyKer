@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
